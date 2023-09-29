@@ -1,0 +1,15 @@
+{
+  "name": "express-watermark-stream",
+  "version": "1.0.0",
+  "description": "An Express.js app with a watermark on a live stream",
+  "main": "app.js", // Replace with your main JavaScript file
+  "scripts": {
+    "start": "node app.js" // Replace with your main JavaScript file
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2" // FFmpeg wrapper for Node.js
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
